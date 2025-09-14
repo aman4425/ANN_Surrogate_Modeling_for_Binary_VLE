@@ -47,11 +47,9 @@ training, and result visualization.
   pip install numpy pandas matplotlib scikit-learn tensorflow keras
 
 ### Steps
-1. Clone this repository or download the notebook:
-   git clone https://github.com/your-username/ANN-Chemical-Engineering.git
-   cd ANN-Chemical-Engineering
+1. Clone this repository or download the notebook
 2. Launch Jupyter Notebook:
-   jupyter notebook
+   jupyter notebook or any ipynb supported IDE.
 3. Open Artificial_Neural_Network_in_Chemical_Engineering.ipynb and run all cells.
 
 ##  Results & Observations
